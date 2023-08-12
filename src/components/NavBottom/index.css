@@ -1,0 +1,50 @@
+.nav-bottom-container-1 {
+  margin-top: 58px;
+  background: linear-gradient(
+    to bottom right,
+    rgb(0, 1, 64),
+    rgb(246, 89, 102)
+  );
+  min-height: 50vh;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  display: flex;
+  flex-direction: row;
+}
+.nav-card-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.nav-card-heading {
+  color: white;
+  font-family: 'Serif';
+  font-size: 40px;
+}
+.nav-card-description {
+  color: rgb(220, 210, 219);
+  font-size: 14px;
+  font-family: 'Serif';
+}
+.request-button {
+  background-color: rgb(220, 210, 219);
+  color: rgb(39, 16, 70);
+  font-family: 'Serif';
+  font-size: 14px;
+  border-width: 0px;
+  border-radius: 50px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.request-button:hover {
+  background-color: rgb(39, 16, 70);
+  color: rgb(220, 210, 219);
+}
+.girl-image {
+  margin-left: 90px;
+  height: 400px;
+}

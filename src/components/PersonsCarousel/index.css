@@ -1,0 +1,46 @@
+.person-1-background {
+  background-image: url('https://novisto.com/wp-content/uploads/2022/08/ae135c19-slide1-bg.png');
+  background-size: cover;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+  text-align: left;
+  margin: 20px;
+}
+.person-2-background {
+  background-image: url('https://novisto.com/wp-content/uploads/2022/05/491bbbce-bg.png');
+  background-size: cover;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+  text-align: left;
+}
+.person-3-background {
+  background-image: url('https://novisto.com/wp-content/uploads/2022/05/d7e4bd41-slide3-bg.png');
+  background-size: cover;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+  text-align: left;
+}
+.person-heading {
+  color: rgb(0, 1, 64);
+  font-family: 'Bree Serif';
+  font-size: 35px;
+}
+
+.person-description {
+  color: rgb(0, 0, 0);
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 0;
+}

@@ -1,0 +1,90 @@
+import './index.css' // Import your CSS file for styling
+
+const TransitionComponent = () => (
+  <div className="horizontal-scroll-container">
+    <div className="scrolling-content">
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-14.png"
+        alt="frog"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-13.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-12.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-11.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-14.png"
+        alt="frog"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-13.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-12.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-11.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-14.png"
+        alt="frog"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-13.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-12.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-11.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-14.png"
+        alt="frog"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-13.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-12.png"
+        alt="asana"
+        className="work-with-image"
+      />
+      <img
+        src="https://novisto.com/wp-content/uploads/2023/04/logo-slider-11.png"
+        alt="asana"
+        className="work-with-image"
+      />
+    </div>
+  </div>
+)
+
+export default TransitionComponent

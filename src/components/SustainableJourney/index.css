@@ -1,0 +1,43 @@
+.sustainable-journey-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 40px;
+}
+.sustainable-journey-details {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+}
+.sustainable-main-heading {
+  color: rgb(246, 89, 102);
+  font-size: 14px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+.sustainable-heading {
+  color: rgb(0, 1, 64);
+  font-family: 'Bree Serif';
+  font-size: 22px;
+  font-weight: 600;
+}
+.sustainable-description {
+  color: rgb(34, 37, 63);
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight: 0;
+}
+.sustainable-list {
+  list-style-type: none;
+  color: rgb(34, 37, 63);
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  font-weight: 0;
+  line-height: 30px;
+}
+.sustainable-img {
+  align-self: center;
+  height: 300px;
+  width: 400px;
+  margin-right: 40px;
+}

@@ -1,0 +1,23 @@
+.horizontal-scroll-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.scrolling-content {
+  display: inline-block;
+  white-space: nowrap;
+  animation: scroll 40s linear infinite; /* Adjust timing as needed */
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%); /* Adjust distance as needed */
+  }
+}
+.work-with-image {
+  width: 300px;
+  margin-top: 0px;
+}

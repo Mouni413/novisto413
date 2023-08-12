@@ -1,0 +1,131 @@
+.footer-background-container {
+  min-height: 50vh;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 40px;
+  background-color: rgb(0, 1, 64);
+  /* background: linear-gradient(to bottom right, rgb(0, 1, 64), rgb(137, 67, 97)); */
+}
+.footer-top-details {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-top-1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-right: 20px;
+}
+.footer-heading {
+  color: rgb(246, 89, 102);
+  font-family: 'Serif';
+  font-size: 18px;
+  font-weight: bold;
+}
+.footer-description {
+  color: rgb(255, 255, 255);
+  font-family: 'Serif';
+  font-size: 16px;
+}
+.email-input {
+  background-color: transparent;
+  border-left: 0px;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid white;
+  padding: 10px;
+  outline: none;
+  color: rgb(43, 58, 87);
+  font-size: 14px;
+  font-family: 'Serif';
+}
+
+.subscribe-button {
+  background-color: white;
+  color: rgb(246, 89, 102);
+  padding: 10px;
+  border-width: 0px;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-family: 'Serif';
+  font-size: 16px;
+  font-weight: bold;
+}
+.contact-us-button {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  font-family: 'Serif';
+  font-size: 16px;
+  font-weight: bold;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.contact-us-button:hover {
+  background-color: white;
+  color: rgb(246, 89, 102);
+  border-width: 0px;
+}
+.social-media-icons {
+  color: white;
+  font-size: 25px;
+  margin-right: 10px;
+}
+.footer-1 {
+  width: 30vw;
+}
+.footer-2 {
+  width: 15vw;
+}
+.footer-3 {
+  width: 15vw;
+}
+.footer-4 {
+  width: 30vw;
+}
+.element {
+  width: 100%;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.horizontal-line {
+  border: none;
+  border-top: 2px solid white;
+  width: 100%;
+  position: absolute;
+  top: 70%;
+}
+.footer-bottom-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.footer-bottom-1 {
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+.copy-right-des {
+  font-size: 12px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+.footer-bottom-2 {
+  margin-left: 150px;
+  justify-content: space-between;
+}
+.terms {
+  margin-right: 10px;
+}

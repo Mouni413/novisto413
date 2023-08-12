@@ -1,0 +1,44 @@
+.in-active-automation {
+  height: 200px;
+  width: 300px;
+  background-color: transparent;
+  margin-top: 10px;
+  align-self: center;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.active-automation {
+  height: 200px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  align-self: center;
+  padding: 20px;
+  box-shadow: rgb(227, 227, 227);
+  cursor: pointer;
+}
+.in-active-automation:hover {
+  height: 200px;
+  width: 300px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 10px;
+  align-self: center;
+  padding: 20px;
+  box-shadow: rgb(227, 227, 227);
+  cursor: pointer;
+}
+
+.automation-heading {
+  color: rgb(246, 89, 122);
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.automation-description {
+  color: rgb(34, 34, 34);
+  font-family: 'Bree Serif';
+  font-size: 15px;
+  cursor: pointer;
+}

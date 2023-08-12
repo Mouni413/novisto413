@@ -1,0 +1,18 @@
+.resource-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 20px;
+  padding: 40px;
+}
+.resource-main-heading {
+  color: rgb(246, 89, 102);
+  font-family: 'Bree Serif';
+  font-size: 40px;
+}
+.resource-description {
+  font-family: 'Serif';
+  font-size: 18px;
+  color: rgb(34, 34, 34);
+}

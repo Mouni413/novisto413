@@ -1,0 +1,26 @@
+.nav-bar-background-color-container {
+  background-color: rgb(0, 1, 64) !important;
+}
+#nav-drop-down-background {
+  color: white !important;
+}
+#nav-drop-down-background:hover {
+  color: rgb(246, 89, 102) !important;
+}
+.request-demo-button {
+  color: white !important;
+  background-color: transparent !important;
+  border: 1px solid white !important;
+}
+.request-demo-button:hover {
+  color: rgb(246, 89, 102) !important;
+  border: 1px solid rgb(246, 89, 102) !important;
+}
+#nav-dropdown-container {
+  color: white !important;
+  background-color: rgb(0, 1, 64) !important;
+  margin-right: 30px;
+}
+#nav-dropdown-container:hover {
+  color: rgb(246, 89, 102) !important;
+}
